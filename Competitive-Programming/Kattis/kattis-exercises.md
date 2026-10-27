@@ -6,11 +6,11 @@
 [*] twosum
 [*] triarea
 [*] bijele
-[]  digitswap
-[]  r2
-[]  sorttwonumbers
-[]  expectedearnings
-[]  quadrant
+[*]  digitswap
+[*]  r2
+[*]  sorttwonumbers
+[*]  expectedearnings
+[*]  quadrant
 []  grading
 []  spavanac
 []  cetvrta
