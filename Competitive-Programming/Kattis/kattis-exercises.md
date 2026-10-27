@@ -1,41 +1,41 @@
 # List of Exercises on Competitive Programming for Kattis 
 
 ## CHAPTER 1. ALGORITHMS AND PROBLEMS
-[*] * hello
-[*] * oddecho
-[*] * twosum
-[*] * triarea
-[*] * bijele
-[] * digitswap
-[] * r2
-[] * sorttwonumbers
-[] * expectedearnings
-[] * quadrant
-[] * grading
-[] * spavanac
-[] * cetvrta
-[] * nsum
-[] * pyramids
-[] * oddecho
-[] * cinema
-[] * refrigerator
-[] * 3dprinter
-[] * haistone2
-[] * sodaslurper
-[] * arithmeticfunctions
-[] * countingdays
-[] * logicfunctions
-[] * ofugsnuid
-[] * modulo
-[] * bookingaroom
-[] * carrots
-[] * pauleigon
-[] * timeloop
-[] * sibice
-[] * cold
-[] * tarifa
-[] * patuljci
-[] * leftbehind
-[] * nodup
-[] * everywhere
-[] * vajningsplikt
+[*] hello
+[*] oddecho
+[*] twosum
+[*] triarea
+[*] bijele
+[]  digitswap
+[]  r2
+[]  sorttwonumbers
+[]  expectedearnings
+[]  quadrant
+[]  grading
+[]  spavanac
+[]  cetvrta
+[]  nsum
+[]  pyramids
+[]  oddecho
+[]  cinema
+[]  refrigerator
+[]  3dprinter
+[]  haistone2
+[]  sodaslurper
+[]  arithmeticfunctions
+[]  countingdays
+[]  logicfunctions
+[]  ofugsnuid
+[]  modulo
+[]  bookingaroom
+[]  carrots
+[]  pauleigon
+[]  timeloop
+[]  sibice
+[]  cold
+[]  tarifa
+[]  patuljci
+[]  leftbehind
+[]  nodup
+[]  everywhere
+[]  vajningsplikt
