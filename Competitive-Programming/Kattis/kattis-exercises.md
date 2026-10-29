@@ -1,6 +1,7 @@
 # List of Exercises on Competitive Programming for Kattis 
 
 ## CHAPTER 1. ALGORITHMS AND PROBLEMS
+```
 [*] hello
 [*] oddecho
 [*] twosum
@@ -11,16 +12,15 @@
 [*]  sorttwonumbers
 [*]  expectedearnings
 [*]  quadrant
-[]  grading
-[]  spavanac
-[]  cetvrta
-[]  nsum
-[]  pyramids
-[]  oddecho
-[]  cinema
-[]  refrigerator
-[]  3dprinter
-[]  haistone2
+[*]  grading
+[*]  spavanac
+[*]  cetvrta
+[*]  nsum
+[*]  pyramids
+[*]  cinema
+[*]  refrigerator
+[*]  3dprinter
+[*]  haistone2
 []  sodaslurper
 []  arithmeticfunctions
 []  countingdays
@@ -39,3 +39,4 @@
 []  nodup
 []  everywhere
 []  vajningsplikt
+```
