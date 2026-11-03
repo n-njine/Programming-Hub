@@ -21,10 +21,10 @@
 [*]  refrigerator
 [*]  3dprinter
 [*]  haistone2
-[]  sodaslurper
-[]  arithmeticfunctions
-[]  countingdays
-[]  logicfunctions
+[*]  sodaslurper
+[*]  arithmeticfunctions
+[*]  countingdays
+[*]  logicfunctions
 []  ofugsnuid
 []  modulo
 []  bookingaroom
