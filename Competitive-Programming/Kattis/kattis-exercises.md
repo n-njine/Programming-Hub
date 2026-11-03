@@ -25,10 +25,10 @@
 [*]  arithmeticfunctions
 [*]  countingdays
 [*]  logicfunctions
-[]  ofugsnuid
-[]  modulo
-[]  bookingaroom
-[]  carrots
+[*]  ofugsnuid
+[*]  modulo
+[*]  bookingaroom
+[*]  carrots
 []  pauleigon
 []  timeloop
 []  sibice
