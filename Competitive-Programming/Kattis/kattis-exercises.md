@@ -29,7 +29,7 @@
 [*]  modulo
 [*]  bookingaroom
 [*]  carrots
-[]  pauleigon
+[**]  pauleigon
 []  timeloop
 []  sibice
 []  cold
