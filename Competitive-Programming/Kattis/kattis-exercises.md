@@ -30,11 +30,11 @@
 [*]  bookingaroom
 [*]  carrots
 [**]  pauleigon
-[]  timeloop
-[]  sibice
-[]  cold
-[]  tarifa
-[]  patuljci
+[*]  timeloop
+[*]  sibice
+[*]  cold
+[*]  tarifa
+[**]  patuljci
 []  leftbehind
 []  nodup
 []  everywhere
